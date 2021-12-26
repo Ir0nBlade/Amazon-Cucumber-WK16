@@ -1,0 +1,162 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 5,
+        "name": "I am on Homepage",
+        "description": "",
+        "type": "background",
+        "keyword": "Background"
+      },
+      {
+        "comments": [
+          {
+            "line": 17,
+            "value": "#      | Laptop  | Alienware M15 R6 Gaming Laptop, 15.6 inch QHD 240Hz Display, Intel Core i7-11800H, 32GB DDR4 RAM, 1TB SSD, NVIDIA GeForce RTX 3080 8GB GDDR6, Windows 11 Home, Dark Side of The Moon (Latest Model) | 3        |"
+          }
+        ],
+        "before": [
+          {
+            "result": {
+              "duration": 3787476500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Verify user should add laptop to cart successfully",
+        "description": "",
+        "id": "laptop-search;verify-user-should-add-laptop-to-cart-successfully;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 74900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 148951300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter \"Laptop\" into search box",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Laptop",
+                  "offset": 9
+                }
+              ],
+              "location": "LaptopTest.iEnterIntoSearchBox(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1698828400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on \u0027SEARCH\u0027 button",
+            "match": {
+              "location": "LaptopTest.iClickOnSEARCHButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7201393400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on Product name \"ASUS L410 MA-DB04 Ultra Thin Laptop, 14” FHD Display, Intel Celeron N4020 Processor, 4GB RAM, 128GB Storage, NumberPad, Windows 10 Home in S Mode, Star Black\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "ASUS L410 MA-DB04 Ultra Thin Laptop, 14” FHD Display, Intel Celeron N4020 Processor, 4GB RAM, 128GB Storage, NumberPad, Windows 10 Home in S Mode, Star Black",
+                  "offset": 25
+                }
+              ],
+              "location": "LaptopTest.iClickOnProductName(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 94986600,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I change quantity \"3\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3",
+                  "offset": 19
+                }
+              ],
+              "location": "LaptopTest.iChangeQuantity(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 170376500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on \u0027Add To Cart\u0027 button",
+            "match": {
+              "location": "LaptopTest.iClickOnAddToCartButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2039328600,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Product added to cart successfully",
+            "match": {
+              "location": "LaptopTest.productAddedToCartSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 7,
+            "name": "@Smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Laptop Search",
+    "description": "\r\nUser should search laptop and add to cart successfully",
+    "id": "laptop-search",
+    "keyword": "Feature",
+    "uri": "Laptop.feature"
+  }
+]

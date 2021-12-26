@@ -1,0 +1,65 @@
+2021-12-23 18:12:129 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 18:12:283 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 18:12:314 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 18:12:680 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 18:12:455 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 18:12:691 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 18:12:439 INFO  HomePage :30 - Entering product name into search box  [[ChromeDriver: chrome on WINDOWS (48ae6c24e77216739606fad2bf4c9b3c)] -> id: twotabsearchtextbox]
+2021-12-23 18:12:510 INFO  HomePage :35 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (48ae6c24e77216739606fad2bf4c9b3c)] -> id: nav-search-submit-button]
+2021-12-23 18:12:897 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 18:12:387 INFO  HomePage :30 - Entering product name into search box  [[ChromeDriver: chrome on WINDOWS (e5942a8682d9dd7cb3cb6aedd2a387f5)] -> id: twotabsearchtextbox]
+2021-12-23 18:12:818 INFO  HomePage :35 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (e5942a8682d9dd7cb3cb6aedd2a387f5)] -> id: nav-search-submit-button]
+2021-12-23 19:12:292 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 19:12:716 INFO  HomePage :30 - Entering product name into search box  [[ChromeDriver: chrome on WINDOWS (4e7c5eb48f6f261a0254eba97e102b77)] -> id: twotabsearchtextbox]
+2021-12-23 19:12:199 INFO  HomePage :35 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (4e7c5eb48f6f261a0254eba97e102b77)] -> id: nav-search-submit-button]
+2021-12-23 20:12:474 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 20:12:722 INFO  HomePage :30 - Entering product name into search box  [[ChromeDriver: chrome on WINDOWS (4b0360925211d6695efe57fa22c43b24)] -> id: twotabsearchtextbox]
+2021-12-23 20:12:183 INFO  HomePage :35 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (4b0360925211d6695efe57fa22c43b24)] -> id: nav-search-submit-button]
+2021-12-23 20:12:880 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 20:12:332 INFO  HomePage :30 - Entering product name into search box  [[ChromeDriver: chrome on WINDOWS (b02f1c5f21012b0cee59c11d89c27b9d)] -> id: twotabsearchtextbox]
+2021-12-23 20:12:838 INFO  HomePage :35 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (b02f1c5f21012b0cee59c11d89c27b9d)] -> id: nav-search-submit-button]
+2021-12-23 20:12:787 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 20:12:151 INFO  HomePage :30 - Entering product name into search box  [[ChromeDriver: chrome on WINDOWS (92f68b0d92bec4fc7cbbfcd043f86bee)] -> id: twotabsearchtextbox]
+2021-12-23 20:12:912 INFO  HomePage :35 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (92f68b0d92bec4fc7cbbfcd043f86bee)] -> id: nav-search-submit-button]
+2021-12-23 20:12:358 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 20:12:647 INFO  HomePage :30 - Entering product name into search box  [[ChromeDriver: chrome on WINDOWS (9b78d842a583fbacd0221be8c9e9c6be)] -> id: twotabsearchtextbox]
+2021-12-23 20:12:331 INFO  HomePage :35 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (9b78d842a583fbacd0221be8c9e9c6be)] -> id: nav-search-submit-button]
+2021-12-23 20:12:332 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 20:12:611 INFO  HomePage :30 - Entering product name into search box  [[ChromeDriver: chrome on WINDOWS (7278e3363aa064a0801a82e8835a99ac)] -> id: twotabsearchtextbox]
+2021-12-23 20:12:248 INFO  HomePage :35 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (7278e3363aa064a0801a82e8835a99ac)] -> id: nav-search-submit-button]
+2021-12-23 20:12:815 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 20:12:876 INFO  HomePage :30 - Entering product name into search box  [[ChromeDriver: chrome on WINDOWS (92abb0399ef392f88a33ef3c24c0b054)] -> id: twotabsearchtextbox]
+2021-12-23 20:12:757 INFO  HomePage :35 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (92abb0399ef392f88a33ef3c24c0b054)] -> id: nav-search-submit-button]
+2021-12-23 20:12:134 INFO  ProductPage :42 - Selecting quantity from dropdown  2
+2021-12-23 20:12:352 INFO  ProductPage :47 - Clicking on Add to cart button  [[ChromeDriver: chrome on WINDOWS (92abb0399ef392f88a33ef3c24c0b054)] -> id: add-to-cart-button]
+2021-12-23 20:12:567 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 20:12:446 INFO  HomePage :30 - Entering product name into search box  [[ChromeDriver: chrome on WINDOWS (5538cfe0b6974c3bca2ca706d747ed5a)] -> id: twotabsearchtextbox]
+2021-12-23 20:12:972 INFO  HomePage :35 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (5538cfe0b6974c3bca2ca706d747ed5a)] -> id: nav-search-submit-button]
+2021-12-23 20:12:307 INFO  ProductPage :42 - Selecting quantity from dropdown  2
+2021-12-23 20:12:520 INFO  ProductPage :47 - Clicking on Add to cart button  [[ChromeDriver: chrome on WINDOWS (5538cfe0b6974c3bca2ca706d747ed5a)] -> id: add-to-cart-button]
+2021-12-23 20:12:561 INFO  ProductPage :64 - Verifying mobild phone added to cart message  Added to Cart
+2021-12-23 20:12:386 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 20:12:171 INFO  HomePage :30 - Entering product name into search box  [[ChromeDriver: chrome on WINDOWS (87963e376d42d2a5ed1e027b9efcbe5b)] -> id: twotabsearchtextbox]
+2021-12-23 20:12:626 INFO  HomePage :35 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (87963e376d42d2a5ed1e027b9efcbe5b)] -> id: nav-search-submit-button]
+2021-12-23 20:12:307 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-23 20:12:839 INFO  HomePage :30 - Entering product name into search box  [[ChromeDriver: chrome on WINDOWS (a15966b8f9219cbec529642c6d68a674)] -> id: twotabsearchtextbox]
+2021-12-23 20:12:243 INFO  HomePage :35 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (a15966b8f9219cbec529642c6d68a674)] -> id: nav-search-submit-button]
+2021-12-26 14:12:866 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-26 14:12:364 INFO  HomePage :30 - Entering product name into search box  [[ChromeDriver: chrome on WINDOWS (e5290d16280471a40173189cbec43aef)] -> id: twotabsearchtextbox]
+2021-12-26 14:12:865 INFO  HomePage :35 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (e5290d16280471a40173189cbec43aef)] -> id: nav-search-submit-button]
+2021-12-26 14:12:120 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-26 14:12:619 INFO  HomePage :30 - Entering product name into search box  [[ChromeDriver: chrome on WINDOWS (c30ce44b88f15757e96acb39777fa0be)] -> id: twotabsearchtextbox]
+2021-12-26 14:12:178 INFO  HomePage :35 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (c30ce44b88f15757e96acb39777fa0be)] -> id: nav-search-submit-button]
+2021-12-26 14:12:02 INFO  ProductPage :42 - Selecting quantity from dropdown  3
+2021-12-26 14:12:142 INFO  ProductPage :47 - Clicking on Add to cart button  [[ChromeDriver: chrome on WINDOWS (c30ce44b88f15757e96acb39777fa0be)] -> id: add-to-cart-button]
+2021-12-26 14:12:354 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-26 14:12:900 INFO  HomePage :30 - Entering product name into search box  [[ChromeDriver: chrome on WINDOWS (f8327627603dd5028cdd9963acc08041)] -> id: twotabsearchtextbox]
+2021-12-26 14:12:480 INFO  HomePage :35 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (f8327627603dd5028cdd9963acc08041)] -> id: nav-search-submit-button]
+2021-12-26 14:12:116 INFO  ProductPage :42 - Selecting quantity from dropdown  3
+2021-12-26 14:12:268 INFO  ProductPage :47 - Clicking on Add to cart button  [[ChromeDriver: chrome on WINDOWS (f8327627603dd5028cdd9963acc08041)] -> id: add-to-cart-button]
+2021-12-26 14:12:50 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-26 14:12:658 INFO  HomePage :30 - Entering product name into search box  [[ChromeDriver: chrome on WINDOWS (81f9e417bea88104def2673fc9504c2e)] -> id: twotabsearchtextbox]
+2021-12-26 14:12:360 INFO  HomePage :35 - Clicking on Search button  [[ChromeDriver: chrome on WINDOWS (81f9e417bea88104def2673fc9504c2e)] -> id: nav-search-submit-button]
+2021-12-26 14:12:662 INFO  ProductPage :42 - Selecting quantity from dropdown  3
+2021-12-26 14:12:834 INFO  ProductPage :47 - Clicking on Add to cart button  [[ChromeDriver: chrome on WINDOWS (81f9e417bea88104def2673fc9504c2e)] -> id: add-to-cart-button]
+2021-12-26 14:12:875 INFO  ProductPage :55 - Verifying laptop added to cart message  Added to Cart
